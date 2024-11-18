@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using SistemaMedico.Context;
+using Microsoft.AspNetCore.Authentication.Cookies;
 //anadi esto
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

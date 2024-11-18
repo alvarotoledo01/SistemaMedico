@@ -1,36 +1,67 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SistemaMedico.Context; // Asegúrate de tener este using para el contexto
+using SistemaMedico.Models; // Asegúrate de tener este using para el modelo de usuario
+using System.Linq;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using System.Security.Claims;
 
 namespace SistemaMedico.Controllers
 {
     public class AccountController : Controller
     {
-            // GET: /Account/Login
-            [HttpGet]
-            public IActionResult Login()
-            {
-                return View();
-            }
+        private readonly ApplicationDbContext _context;
 
-            // POST: /Account/Login
-            [HttpPost]
-            public IActionResult Login(string username, string password)
+        public AccountController(ApplicationDbContext context)
+        {
+            _context = context;
+        }
+
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        // POST: /Account/Login
+        [HttpPost]
+        public async Task<IActionResult> Login(string username, string password)
+        {
+            // Busca el usuario en la base de datos
+            var user = _context.Usuarios
+                .FirstOrDefault(u => u.NombreUsuario == username && u.Contraseña == password);
+
+            if (user != null) // Usuario encontrado
             {
-                // Lógica de autenticación aquí
-                if (username == "admin" && password == "12345") // Ejemplo básico
+                // Crear claims para el usuario
+                var claims = new List<Claim>
                 {
-                    return RedirectToAction("Index", "Home"); // Redirige al Home después de iniciar sesión
-                }
+                    new Claim(ClaimTypes.Name, username)
+                };
 
-                ViewBag.Error = "Usuario o contraseña incorrectos.";
-                return View();
+                // Crear la identidad y el principal
+                var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                var authProperties = new AuthenticationProperties
+                {
+                    // Opcional: puedes configurar la duración de la sesión
+                };
+
+                // Establecer la cookie de autenticación
+                await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity), authProperties);
+
+                return RedirectToAction("Index", "Home"); // Redirige al Home después de iniciar sesión
             }
 
-            // GET: /Account/Logout
-            public IActionResult Logout()
-            {
-                // Lógica de cierre de sesión (si aplicas autenticación)
-                return RedirectToAction("Login");
-            }
+            ViewBag.Error = "Usuario o contraseña incorrectos.";
+            return View();
+        }
+
+        // GET: /Account/Logout
+        public async Task<IActionResult> Logout()
+        {
+            // Cerrar sesión
+            await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+            return RedirectToAction("Login");
         }
     }
-
+}

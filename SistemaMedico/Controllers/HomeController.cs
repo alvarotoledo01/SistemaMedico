@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using SistemaMedico.Models;
 using System.Diagnostics;
 
@@ -14,6 +15,12 @@ namespace SistemaMedico.Controllers
         }
 
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        // Nueva acción para la vista del usuario autenticado
+        public IActionResult Dashboard()
         {
             return View();
         }
