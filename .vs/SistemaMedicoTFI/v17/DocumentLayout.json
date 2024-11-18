@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\matia\\onedrive - frt.utn.edu.ar\\c sharp\\sistemamedicotfi\\sistemamedico\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\matia\\onedrive - frt.utn.edu.ar\\c sharp\\sistemamedicotfi\\sistemamedico\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\matia\\onedrive - frt.utn.edu.ar\\c sharp\\sistemamedicotfi\\sistemamedico\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\matia\\onedrive - frt.utn.edu.ar\\c sharp\\sistemamedicotfi\\sistemamedico\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\matia\\onedrive - frt.utn.edu.ar\\c sharp\\sistemamedicotfi\\sistemamedico\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\matia\\onedrive - frt.utn.edu.ar\\c sharp\\sistemamedicotfi\\sistemamedico\\models\\historiaclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\models\\historiaclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\matia\\onedrive - frt.utn.edu.ar\\c sharp\\sistemamedicotfi\\sistemamedico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\sistemamedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\sistemamedico\\models\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\models\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:59:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:59:04.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:56:44.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:56:30.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Models\\Medico.cs",
+              "RelativeToolTip": "SistemaMedico\\Models\\Medico.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA0wBIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:04:37.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistoriaClinica.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Models\\HistoriaClinica.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Models\\HistoriaClinica.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Models\\HistoriaClinica.cs",
+              "RelativeToolTip": "SistemaMedico\\Models\\HistoriaClinica.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:03:55.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaMedico\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:55:48.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Program.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Program.cs",
+              "RelativeToolTip": "SistemaMedico\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:49:41.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Plantilla.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Models\\Plantilla.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Models\\Plantilla.cs",
+              "ToolTip": "C:\\Users\\matia\\OneDrive - frt.utn.edu.ar\\C sharp\\SistemaMedicoTFI\\SistemaMedico\\Models\\Plantilla.cs",
+              "RelativeToolTip": "SistemaMedico\\Models\\Plantilla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:31:10.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
