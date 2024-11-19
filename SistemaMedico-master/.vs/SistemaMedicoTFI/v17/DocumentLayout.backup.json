@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\views\\medico\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\medico\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\wwwroot\\css\\medicodashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\wwwroot\\css\\medicodashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\views\\medico\\buscarpacientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\medico\\buscarpacientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\models\\historiaclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\models\\historiaclinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|c:\\users\\usuario\\desktop\\repositorio\\sistemamedico-master\\sistemamedico\\models\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2CA7B9-E55F-40DD-8B82-C8AEB5D025A5}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\models\\plantilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuscarPacientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\Medico\\BuscarPacientes.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\Medico\\BuscarPacientes.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\Medico\\BuscarPacientes.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\Medico\\BuscarPacientes.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T14:21:37.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Controllers\\MedicoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Controllers\\MedicoController.cs*",
+              "RelativeToolTip": "SistemaMedico\\Controllers\\MedicoController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:49:32.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicoDashboard.css",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\wwwroot\\css\\MedicoDashboard.css",
+              "RelativeDocumentMoniker": "SistemaMedico\\wwwroot\\css\\MedicoDashboard.css",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\wwwroot\\css\\MedicoDashboard.css",
+              "RelativeToolTip": "SistemaMedico\\wwwroot\\css\\MedicoDashboard.css",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-19T13:46:12.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\Medico\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\Medico\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\Medico\\Dashboard.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\Medico\\Dashboard.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T13:45:05.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T05:09:12.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T04:58:49.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SistemaMedico\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:07:41.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:59:10.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:59:04.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaMedico\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaMedico\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:56:30.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Models\\Medico.cs",
+              "RelativeToolTip": "SistemaMedico\\Models\\Medico.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA0wBIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:04:37.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HistoriaClinica.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Models\\HistoriaClinica.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Models\\HistoriaClinica.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Models\\HistoriaClinica.cs",
+              "RelativeToolTip": "SistemaMedico\\Models\\HistoriaClinica.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:03:55.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaMedico\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:55:48.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Program.cs",
+              "RelativeToolTip": "SistemaMedico\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:49:41.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Plantilla.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Models\\Plantilla.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Models\\Plantilla.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\SistemaMedico-master\\SistemaMedico\\Models\\Plantilla.cs",
+              "RelativeToolTip": "SistemaMedico\\Models\\Plantilla.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:31:10.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

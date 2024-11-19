@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Buscar Pacientes";
+}
+
+<h2>Buscar Pacientes</h2>
+
+<form method="get" class="mb-3">
+    <div class="row">
+        <div class="col-md-4">
+            <label for="nombre" class="form-label">Nombre del Paciente</label>
+            <input type="text" name="nombre" class="form-control" placeholder="Ej. Juan Pérez" />
+        </div>
+        <div class="col-md-4">
+            <label for="dni" class="form-label">DNI</label>
+            <input type="text" name="dni" class="form-control" placeholder="Ej. 12345678" />
+        </div>
+        <div class="col-md-4 d-flex align-items-end">
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </div>
+    </div>
+</form>
+
+<hr />
+
+<!-- Sección de resultados (puedes reemplazarla con datos simulados o dejarla vacía para futuros resultados) -->
+<div>
+    <p>Los resultados de búsqueda aparecerán aquí.</p>
+</div>

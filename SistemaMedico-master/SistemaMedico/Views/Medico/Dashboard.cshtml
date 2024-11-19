@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Dashboard Médico";
+}
+
+<link rel="stylesheet" href="~/css/MedicoDashboard.css" />
+
+<div class="dashboard-container">
+    <div class="header">
+        <h2>Paciente: Milena Guitian</h2>
+        <p>Edad: 23 años | Dni: 42940357 | Obra social: SANCOR</p>
+    </div>
+
+    <div class="content">
+        <!-- Diagnósticos -->
+        <div class="diagnosticos">
+            <h3>Diagnósticos</h3>
+            <button class="btn-diagnostico" onclick="showDiagnosticosModal()">Gripe</button>
+            <button class="btn-diagnostico" onclick="showDiagnosticosModal()">Covid</button>
+            <button class="btn-diagnostico" onclick="showDiagnosticosModal()">Gastroenteritis</button>
+            <button class="btn-diagnostico" onclick="showDiagnosticosModal()">Dengue</button>
+        </div>
+
+        <!-- Historia Clínica -->
+        <div class="historia-clinica">
+            <h3>Historia Clínica</h3>
+            <button class="btn-nuevo">Nueva evolución</button>
+            <div class="diagnostico">
+                <h4>Gripe</h4>
+                <p>Presenta cuadro gripal con 39° de fiebre y dolor muscular</p>
+            </div>
+            <div class="diagnostico">
+                <h4>Covid</h4>
+                <p>Dolor de cuerpo y pérdida del olfato</p>
+            </div>
+        </div>
+
+        <!-- Pedidos de Laboratorio -->
+        <div class="pedidos-laboratorio">
+            <h3>Pedidos Laboratorio</h3>
+            <button class="btn-nuevo" onclick="showDiagnosticosModal()">Nuevo</button>
+            <ul>
+                <li>Glucemia</li>
+                <li>Orina</li>
+                <li>Item Four</li>
+            </ul>
+        </div>
+
+        <!-- Receta Digital -->
+        <div class="receta-digital">
+            <h3>Receta Digital</h3>
+            <button class="btn-nuevo" onclick="showDiagnosticosModal()">Nuevo</button>
+            <ul>
+                <li>Optamox duo</li>
+                <li>Paracetamol</li>
+            </ul>
+        </div>
+
+        <!-- Informes Anteriores -->
+        <div class="informes-anteriores">
+            <h3>Informes Anteriores</h3>
+            <button class="btn-nuevo" onclick="showDiagnosticosModal()">Nuevo</button>
+            <p>Ecografía 22/07/24</p>
+        </div>
+
+        <!-- Plantillas Evolución -->
+        <div class="plantillas-evolucion">
+            <h3>Plantillas Evolución</h3>
+            <button class="btn-nuevo" onclick="showDiagnosticosModal()">Nuevo</button>
+        </div>
+    </div>
+</div>
+
+<!-- Ventana Emergente de Diagnósticos -->
+<div id="diagnosticosModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeDiagnosticosModal()">&times;</span>
+        <h3>Seleccionar Diagnóstico</h3>
+        <input type="text" placeholder="Buscar diagnóstico...">
+        <button class="btn-seleccionar">Seleccionar</button>
+    </div>
+</div>
+
+<script>
+    function showDiagnosticosModal() {
+        document.getElementById("diagnosticosModal").style.display = "block";
+    }
+
+    function closeDiagnosticosModal() {
+        document.getElementById("diagnosticosModal").style.display = "none";
+    }
+</script>
